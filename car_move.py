@@ -78,3 +78,5 @@ while True:
 
     pygame.display.update()
     fpsClock.tick(FPS)
+
+    #Oke Quan day
